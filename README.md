@@ -3,4 +3,4 @@
 
 Estou aprendendo a criar repositorios 
 
-<a href="https://isa490.github.io/html-css/">Executar o ex001</a>
+<a href="https://isa490.github.io/html-css/">Executar o exercicio ex001</a>
