@@ -3,15 +3,6 @@
 
 Estou aprendendo a criar repositorios 
 
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="1°aula.css">
-    <title>Aula 1°</title>
-</head>
-<body>
     <h1 class="text-center">welcome to my first class</h1>
     <p>Olá, pessoa incrível! Hoje vamos embarcar em uma aventura empolgante inspirada na lendária personagem Indiana Jones! Imagine que você é uma pessoa arqueóloga apaixonada por descobertas históricas e tesouros antigos. Assim como Indiana Jones, você está em busca de conhecimento e aventuras emocionantes. No entanto, em vez de explorar templos e ruínas antigas, a sua missão é desvendar os segredos do CSS (Cascading Style Sheets) — e dominar essa linguagem poderosa.</p>
     <br>
